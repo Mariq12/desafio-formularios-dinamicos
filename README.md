@@ -1,5 +1,10 @@
-# 
+# <p align="center">Desafío formulario dinámicos</p>
+ 
+ ## Descripción
+ Primer desaafío planteado en el Curso de Hooks en ReactJS: conociendo su potencial y utilidad
 
+![En proceso](https://img.shields.io/badge/status-en_proceso-red)
+ + ⏳ El desafío del formulario dinámico.
 
 ## Desplegar el proyecto en GitHub Pages
 1. Agregar configuración en vite.config.js
