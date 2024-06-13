@@ -3,8 +3,9 @@
  ## Descripción
  Primer desaafío planteado en el Curso de Hooks en ReactJS: conociendo su potencial y utilidad
 
-![En proceso](https://img.shields.io/badge/status-en_proceso-red)
- + ⏳ El desafío del formulario dinámico.
+![Completado](https://img.shields.io/badge/status-completado-brightgreen) 
+
++ ✔️ El desafío del formulario dinámico.
 
 ## Desplegar el proyecto en GitHub Pages
 1. Agregar configuración en vite.config.js
@@ -37,7 +38,11 @@
 
 4. Ejecutar el comando:
 
-    npm run deploy
+        npm run deploy
+
+5. Comentar la carpeta dist de .gitignore
+
+        #dist
 
 ## Tecnología
 React + Vite
