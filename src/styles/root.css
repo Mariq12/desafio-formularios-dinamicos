@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+    --st-bg-color:#041833;
+    --nd-bg-color: #15447f;
+    --rd-bg-color: #6b04fd;
+    --st-color: #FFFFFF;
+    --form-color: #f9f9f9;
+    --button-color: #007bff;
+    --button-hover-color: #0056b3;
+    --bugs-color: #FF0000;
+    --border-color: #ccc; 
+
+    --bg-color: linear-gradient(175deg, var(--st-bg-color) 4.16%, var(--nd-bg-color) 48%, var(--rd-bg-color) 96.76%);
+}
